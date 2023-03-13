@@ -10,15 +10,19 @@
 ### 🧑🏼‍💻 Projects
 -------
 
-*  [Computer Graphic lab on Swift](https://github.com/isysoi3/Parallel-computing)
-*  [Coursework's application on Swift](https://github.com/isysoi3/System-programming)
-*  [PetProject app on Swift](https://github.com/isysoi3/PMVS)
+*  [Computer Graphic lab on Swift](https://github.com/Uladz1slau/JENEVA)
+*  [Coursework's application on Swift](https://github.com/Uladz1slau/JENEVA)
+*  [SpriteKit game on Swift](https://github.com/Uladz1slau/JENEVA)                                                                                    
+*  [PetProject app on Swift](https://github.com/Uladz1slau/JENEVA)
 
 ------
 
                                                                                     
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;                                                                                    
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;         <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="Github" width="40" height="40"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;          <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlLite" alt="sqlLite" width="40" height="40"/>&nbsp; 
+
 ------
                                                                                                                                           
 <details>
