@@ -12,9 +12,11 @@
 
 *  [Computer Graphic lab on Swift](https://github.com/Uladz1slau/JENEVA)
 *  [Coursework's application on Swift](https://github.com/Uladz1slau/JENEVA)
+*  [Client-server on swift and python]( https://github.com/Uladz1slau/simply-client-server-with-python-and-swift)
 *  [SpriteKit game on Swift](https://github.com/Uladz1slau/JENEVA)                                                                                    
 *  [PetProject app on Swift](https://github.com/Uladz1slau/JENEVA)
 
+                                                        
 ------
 
                                                                                     
