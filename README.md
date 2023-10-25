@@ -13,10 +13,6 @@
 *  [Client-server on Swift and Python]( https://github.com/Uladz1slau/simply-client-server-with-python-and-swift)
 *  [SpriteKit game on Swift](https://github.com/Uladz1slau/JENEVA)                                                                                    
 
-
-                                                        
-------
-
                                                                                     
 
 ------
