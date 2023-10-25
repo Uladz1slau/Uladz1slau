@@ -8,7 +8,8 @@
 
 ### Projects
 -------
-
+*  [Serenity Sounds: Sleep & Relax](https://apps.apple.com/by/app/serenity-sounds-sleep-relax/id6458223139)
+*  [My Affirmations: Daily](https://apps.apple.com/by/app/my-affirmations-daily/id6451049091)
 *  [Computer Graphic lab on Swift](https://github.com/Uladz1slau/JENEVA)
 *  [Client-server on Swift and Python]( https://github.com/Uladz1slau/simply-client-server-with-python-and-swift)
 *  [SpriteKit game on Swift](https://github.com/Uladz1slau/JENEVA)                                                                                    
