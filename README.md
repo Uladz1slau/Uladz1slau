@@ -21,7 +21,6 @@
 <summary>🔗 see also </summary>
 
 * [Unity 3d game](https://github.com/Uladz1slau/JENEVA)
-* [Solo Unity 2d game](https://github.com/Uladz1slau/Drift_Phonk)
 
 </details>
                                      
